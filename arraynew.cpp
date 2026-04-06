@@ -51,6 +51,6 @@ int main() {
     //menampilakan dengan menggunakan pengulangan for
     for (int i = 0; i <= 4; i++)
     {
-        cout
+        cout << "Data ke-" << i+1 << " = " << kamu[i] << endl;
     }
 }
