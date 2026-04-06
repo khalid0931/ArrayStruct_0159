@@ -7,4 +7,7 @@ int main() {
     
     // deklarasi array tanpa inisialisasi
     int kamu[5];
+
+    // tampilkan data
+    cout << "Data pada index 1 = " << aku[1] << endl;
 }
